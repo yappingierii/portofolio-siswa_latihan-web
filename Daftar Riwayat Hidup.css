@@ -1,0 +1,70 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+#judul {
+  background-color: orangered;
+  padding: 10px;
+  border-radius: 50px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 0 10px orangered;
+}
+.profil {
+  text-align: center;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 40px;
+  padding-top: 10px;
+  border: 4px solid #f4ca09;
+  box-shadow: 0 0 12px orange;
+}
+#motto {
+  color: white;
+}
+#fotoprofil {
+  border-radius: 50px;
+  margin-bottom: 0px;
+}
+#ripen {
+  background-color: orangered;
+  padding: 0 0 0 5px;
+  color: white;
+}
+#riorg {
+  background-color: orangered;
+  padding: 0 0 0 5px;
+  color: white;
+}
+#sekil {
+  background-color: orangered;
+  padding: 0 0 0 5px;
+  color: white;
+}
+#hobby {
+  background-color: orangered;
+  padding: 0 0 0 5px;
+  color: white;
+}
+#nama {
+  margin: 0;
+  color: white;
+}
+#kelas {
+  margin: 0;
+  color: white;
+}
+#nisn {
+  margin: 0;
+  color: white;
+}
+#ttl {
+  margin: 0;
+  color: white;
+}
+#textmotto{
+  margin: 0;
+}
+#motto {
+  margin: 3px 0 10px 0;
+}
